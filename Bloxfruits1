@@ -1,1 +1,1 @@
-loadstring(game:HttpGet"https://raw.githubusercontent.com/xQuartyx/DonateMe/main/ScriptLoader%22)()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ArceusXHub/AV2022/main/README.md", true))()
